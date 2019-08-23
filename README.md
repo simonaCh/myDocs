@@ -1,7 +1,7 @@
 
 # Make voice call from audio file
 
-This api initiate a call and at answer it will play an audio file and Dillo will automatically hang up after the file is played.
+This api initiate a call, after the answer it will play an audio file and Dillo will automatically hang up after the file is played.
 
 ### Prerequisites 
 

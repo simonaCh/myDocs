@@ -19,7 +19,7 @@ The httpUrl is the url to which you have to make the POST call.
 
 The receivers are set in the phoneNumbers variable. This a list of string. The phone number must be with prefix and it can begin either with + or with '00'.
 
-```
+```csharp
 string httpUrl = "http://italiacall.sendservice.eu/ndoctwebapi/api/sendaction";
 
 string customerCode = "John";

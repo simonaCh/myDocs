@@ -42,7 +42,7 @@ string fileUrl = "https://s3.eu-central-1.amazonaws.com/dev-amazon-polly/105d3d9
 If the the customer code or the apiKey is incorrect the response status  will be 404 Not Found, else the response status it will be 201 Created and in the body you will receive an unique identifier code that allows you to check the request status.
 Ex:
 
-```
+```json
 {
 "guid": "3abf0de6-5c51-4a74-90c8-d3f95d844969"
 }
